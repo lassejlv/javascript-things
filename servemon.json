@@ -1,0 +1,6 @@
+{
+  "dir": "./",
+  "port": 3000,
+  "logger": false,
+  "watch": true
+}
